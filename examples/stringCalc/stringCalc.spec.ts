@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest";
-import { stringCalc } from "./stringCalc_remeda";
+import { stringCalc } from "./stringCalc_classic";
 
 describe("stringCalc", () => {
   it("should return 0 for an empty string", () => {
