@@ -1,0 +1,84 @@
+loaded Records = 1426
+Balance over all = 5431.809999999994 billions US$
+average age over all = 60.97124824684432
+average balance over all = 3.8091234221598835 billions US$
+**** Top 10 ****
+1 Carlos Slim Helu &amp; family Mexico 73 73 telecom
+2 Bill Gates United States 57 67 Microsoft
+3 Amancio Ortega Spain 76 57 Zara
+4 Warren Buffett United States 82 53.5 Berkshire Hathaway
+5 Larry Ellison United States 68 43 Oracle
+6 Charles Koch United States 77 34 diversified
+6 David Koch United States 72 34 diversified
+8 Li Ka-shing Hong Kong 84 31 diversified
+9 Liliane Bettencourt &amp; family France 90 30 L'Oréal
+10 Bernard Arnault &amp; family France 64 29 LVMH
+****************
+*** country balance ***
+United States 442 1872.50
+Russia 110 427.10
+Germany 58 296.25
+China 122 262.96
+India 55 193.60
+Hong Kong 39 193.10
+Brazil 46 189.30
+Mexico 15 148.50
+France 24 142.85
+United Kingdom 37 121.10
+Italy 23 112.90
+Spain 20 99.95
+Canada 29 92.05
+Sweden 14 88.30
+Turkey 43 74.20
+Australia 22 73.10
+Taiwan 26 72.80
+Japan 22 68.40
+Chile 14 61.35
+South Korea 24 56.35
+Saudi Arabia 8 55.55
+Indonesia 25 55.25
+Switzerland 13 50.30
+Malaysia 10 48.75
+Israel 17 46.25
+Philippines 11 39.85
+Thailand 10 38.60
+Colombia 5 34.50
+Ukraine 10 32.10
+Singapore 10 31.60
+Austria 8 26.50
+Peru 10 23.30
+South Africa 6 22.00
+Ireland 5 21.90
+Netherlands 6 21.25
+Nigeria 2 20.80
+Egypt 7 18.55
+Denmark 6 18.50
+Norway 6 17.10
+Czech Republic 4 14.90
+Lebanon 6 14.00
+Cyprus 3 13.65
+Argentina 5 11.10
+Poland 4 9.80
+Venezuela 3 9.80
+United Arab Emirates 4 9.75
+Kazakhstan 5 9.20
+New Zealand 3 9.15
+Greece 3 8.60
+Portugal 3 8.55
+Morocco 3 6.50
+Kuwait 5 6.15
+Belgium 2 5.80
+Georgia 1 5.30
+Monaco 3 4.45
+Finland 1 3.10
+Swaziland 1 3.10
+Angola 1 2.00
+Guernsey 1 1.50
+St. Kitts and Nevis 1 1.50
+Vietnam 1 1.50
+Romania 1 1.10
+Belize 1 1.00
+Nepal 1 1.00
+
+​
+
