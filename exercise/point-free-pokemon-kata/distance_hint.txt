@@ -1,7 +1,4 @@
 export const distance: Distance = R.createPipe(
   ([p1, p2]) => R.zip(p1, p2),
-  R.map(absDelta),
-  R.map(square),
-  R.sumBy(R.identity),
-  Math.sqrt
+  // use Pythagoras
 );

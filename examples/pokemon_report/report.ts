@@ -7,6 +7,7 @@ const league = (cp: number): League => {
   return "Master";
 };
 const average = (ns: number[]): number => R.sumBy(ns, R.identity) / ns.length;
+
 export const report = (team: Team) =>
   R.pipe(
     team,
